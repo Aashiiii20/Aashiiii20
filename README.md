@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aashiya Bi</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
-- 🔭 I’m currently working on **poverty alleviation using machine learning**
+- 🔭 I’m currently working on **Parkinson's Disease detection**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Advanced Python and Power Bi tools**
 
-- 👯 I’m looking to collaborate on **poverty alleviation project**
+- 👯 I’m looking to collaborate on **any new project**
 
-- 🤝 I’m looking for help with **poverty alleviation project**
+- 🤝 I’m looking for help with **VGG16 model for Parkinson's detection project**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python and neural netwroks**
 
 - 📫 How to reach me **aashiya.saifi999@outlook.com**
 
