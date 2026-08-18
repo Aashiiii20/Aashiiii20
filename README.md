@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aashiya Bi</h1>
 <h3 align="center">A passionate data science student from India</h3>
 
-- 🔭 I’m currently working on **Parkinson's Disease detection**
-
-- 🌱 I’m currently learning **Advanced Python and Power Bi tools**
-
-- 👯 I’m looking to collaborate on **any new project**
-
-- 🤝 I’m looking for help with **VGG16 model for Parkinson's detection project**
-
-- 💬 Ask me about **python and neural netwroks**
+- 💬 Ask me about **Applied AI and Automations**
 
 - 📫 How to reach me **aashiya.saifi999@outlook.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10PlyvJNUgdUlZ2t5wASuyURsxQHYPPK7/view?usp=drivesdk](https://drive.google.com/file/d/10PlyvJNUgdUlZ2t5wASuyURsxQHYPPK7/view?usp=drivesdk)
-
-- ⚡ Fun fact **I'm not funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
