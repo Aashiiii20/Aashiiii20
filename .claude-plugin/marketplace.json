@@ -1,0 +1,14 @@
+{
+  "name": "aashiiii20-plugins",
+  "owner": {
+    "name": "Aashiya Bi",
+    "url": "https://github.com/aashiiii20"
+  },
+  "plugins": [
+    {
+      "name": "short-drama-toolkit",
+      "source": "./plugins/short-drama-toolkit",
+      "description": "Full-process short-drama scriptwriting assistant for 50–100 episode vertical-drama packages (topic selection, characters, hooks, paywall beats, episode outlines, drafting, review, compliance, export)."
+    }
+  ]
+}
