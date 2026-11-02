@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashiya Bi</h1>
-<h3 align="center">AI Automation Engineer · Team Lead · AI Trainer</h3>
+<h3 align="center">AI Automation Engineer</h3>
 <p align="center"><i>Think independently. Build practically. Share honestly.</i></p>
 
 I build AI-powered products and automation systems for enterprise and SaaS clients. Over the last 3+ years, my work has covered multistep AI agent workflows, RAG, MCP, and agentic app building with Claude Code and Lovable, on top of a solid automation base in Make.com, n8n, Zapier, GHL, and Monday.com.
